@@ -30,3 +30,5 @@
 
 ## 다음 주제
 
+
+- 기본 주제와 System SW 단골 주제(LRU, 링 버퍼, free list)를 모두 다뤘다. 이제 각 NOTES.md의 연습 문제를 푼다.
