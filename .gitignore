@@ -10,3 +10,5 @@ __pycache__/
 04-heap/sjf
 05-stack-queue/rate
 05-stack-queue/slower
+06-hash/usage
+06-hash/window

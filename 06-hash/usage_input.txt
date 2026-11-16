@@ -1,0 +1,8 @@
+7 2
+acme 120
+beta 300
+acme 250
+corp 300
+beta 10
+acme 5
+corp 75
