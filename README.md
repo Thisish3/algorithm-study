@@ -8,6 +8,7 @@
 | 01 | [Power of Two Random Choices](01-power-of-two-choices/) | Python, C, C++, Rust | 디스크·GPU에 부하 고르게 나누기 (S3, 라우터) |
 | 02 | [BFS](02-bfs/) | Python, C++ | 최단 거리, 홉 수 |
 | 03 | [위상 정렬](03-topological-sort/) | Python, C++ | LangGraph 노드 실행 순서, 병렬 단계 |
+| 04 | [힙 (우선순위 큐)](04-heap/) | Python, C++ | 서빙 스케줄러가 대기 요청 중 먼저 돌릴 것 고르기 |
 
 ## 공부 방법
 
@@ -18,6 +19,5 @@
 
 ## 다음 주제
 
-- 힙 (프로그래머스 디스크 컨트롤러: 짧은 작업 먼저 처리해 평균 대기 시간 줄이기)
 - 스택/큐, 해시, 이분 탐색, 다익스트라
 - LRU 캐시, free list 메모리 할당기, 링 버퍼
