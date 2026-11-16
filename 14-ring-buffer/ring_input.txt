@@ -1,0 +1,12 @@
+3 11
+push 10
+push 20
+avg
+push 30
+push 40
+avg
+pop
+pop
+avg
+pop
+pop
