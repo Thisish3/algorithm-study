@@ -12,3 +12,5 @@ __pycache__/
 05-stack-queue/slower
 06-hash/usage
 06-hash/window
+07-binary-search/slo
+07-binary-search/split
