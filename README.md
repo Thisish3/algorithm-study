@@ -19,6 +19,7 @@
 | 12 | [구현 · 시뮬레이션](12-simulation/) | Python, C++ | KV 블록 할당과 선점이 있는 스케줄러 |
 | 13 | [LRU 캐시](13-lru-cache/) | Python, C++ | vLLM이 다시 쓸 KV 블록을 고르는 순서 |
 | 14 | [링 버퍼](14-ring-buffer/) | Python, C++ | 최근 지표 버퍼, 잠금 없는 생산자-소비자 큐, 장치 명령 큐 |
+| 15 | [free list 할당기](15-free-list-allocator/) | Python, C++ | vLLM KV 블록 풀, GPU 캐싱 할당기의 단편화 |
 
 ## 공부 방법
 
@@ -29,4 +30,3 @@
 
 ## 다음 주제
 
-- free list 메모리 할당기

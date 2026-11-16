@@ -1,0 +1,10 @@
+16 9
+alloc a 4
+alloc b 4
+alloc c 4
+free b
+alloc d 6
+free a
+alloc d 6
+alloc e 3
+free c
