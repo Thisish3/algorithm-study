@@ -14,3 +14,5 @@ __pycache__/
 06-hash/window
 07-binary-search/slo
 07-binary-search/split
+08-two-pointers/window
+08-two-pointers/slots
